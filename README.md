@@ -6,7 +6,7 @@ Hands-on labs toward Cloud, DevOps and Cloud Security roles. Each lab includes c
 
 | # | Topic | Status |
 |---|-------|--------|
-| 01 | [Networking](01-networking/) | In progress |
+| 01 | [Networking](01-networking/) | Done |
 | 02 | Git advanced | Planned |
 | 03 | Python and Bash automation | Planned |
 | 04 | AWS | Planned |
@@ -16,6 +16,14 @@ Hands-on labs toward Cloud, DevOps and Cloud Security roles. Each lab includes c
 | 08 | Kubernetes | Planned |
 | 09 | Monitoring | Planned |
 | 10 | Cloud security | Planned |
+
+## Networking labs
+
+1. [IP addressing, gateway and ports](01-networking/01-ip-and-ports.md)
+2. [DNS resolution](01-networking/02-dns.md)
+3. [HTTP and HTTPS](01-networking/03-http-https.md)
+4. [Firewalls and subnets](01-networking/04-firewalls-subnets.md)
+5. [VPC fundamentals](01-networking/05-vpc-fundamentals.md)
 
 ## Related projects
 
