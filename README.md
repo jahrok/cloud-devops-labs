@@ -7,7 +7,7 @@ Hands-on labs toward Cloud, DevOps and Cloud Security roles. Each lab includes c
 | # | Topic | Status |
 |---|-------|--------|
 | 01 | [Networking](01-networking/) | Done |
-| 02 | [Git advanced](https://github.com/jahrok/git-workflow-practice) | In progress |
+| 02 | [Git advanced](https://github.com/jahrok/git-workflow-practice) | Done |
 | 03 | Python and Bash automation | Planned |
 | 04 | AWS | Planned |
 | 05 | Terraform | Planned |
@@ -27,7 +27,7 @@ Hands-on labs toward Cloud, DevOps and Cloud Security roles. Each lab includes c
 
 ## Git labs
 
-The Git labs live in their own repository: [git-workflow-practice](https://github.com/jahrok/git-workflow-practice) (branches and merge, Pull Requests, merge conflicts).
+The Git labs live in their own repository: [git-workflow-practice](https://github.com/jahrok/git-workflow-practice) (branches and merge, Pull Requests, merge conflicts, .gitignore and history).
 
 ## Related projects
 
