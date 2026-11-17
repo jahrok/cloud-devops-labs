@@ -34,8 +34,9 @@ The Git labs live in their own repository: [git-workflow-practice](https://githu
 1. [Python basics: a system report](03-python-bash/01-basics.md)
 2. [Files and error handling](03-python-bash/02-files-and-errors.md)
 3. [Libraries: os, subprocess and requests](03-python-bash/03-libraries.md)
+4. [Advanced Bash: functions, arguments and cron](03-python-bash/04-bash-and-cron.md)
 
-More labs (advanced Bash and a final automation project) will be added as they are completed.
+A final automation project will be added when it is completed.
 
 ## Related projects
 
